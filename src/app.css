@@ -1,0 +1,26 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.highlight-hover {
+  transition: transform 0.3s ease;
+}
+
+.highlight-hover:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
+
+/*scrollbar*/
+::-webkit-scrollbar {
+  width: 0;
+}
+::-webkit-scrollbar-track {
+  background: none;
+}
+::-webkit-scrollbar-thumb {
+  background: none;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: none;
+}
