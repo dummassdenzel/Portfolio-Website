@@ -307,11 +307,26 @@
     id="portfolio"
     class="font-primary text-white bg-black border-t text-lg border-slate-600 p-10"
   >
-    <h1 class="text-center font-bold text-5xl my-10">My Portfolio:</h1>
+    <h1 class="text-center font-bold text-5xl my-10">Some of my Works:</h1>
     <div class="columns-2 sm:columns-2 lg:columns-5 gap-4 space-y-4">
       <div class="image-wrapper">
         <img
-          src="/images/projects1.png"
+          src="/images/finished-projects/last2.png"
+          alt=""
+          class="rounded-lg image-scale bg-white"
+        />
+      </div>
+      <div class="image-wrapper">
+        <img
+          src="/images/finished-projects/awslc.png"
+          alt=""
+          class="rounded-lg image-scale bg-white"
+        />
+      </div>
+
+      <div class="image-wrapper">
+        <img
+          src="/images/bg.png"
           alt=""
           class="rounded-lg image-scale bg-white"
         />
@@ -325,26 +340,25 @@
       </div>
       <div class="image-wrapper">
         <img
-          src="/images/finished-projects/awslc.png"
+          src="/images/projects1.png"
           alt=""
           class="rounded-lg image-scale bg-white"
         />
       </div>
       <div class="image-wrapper">
         <img
-          src="/images/finished-projects/slowpoke.png"
+          src="/images/finished-projects/stcref.png"
           alt=""
           class="rounded-lg image-scale bg-white"
         />
       </div>
       <div class="image-wrapper">
         <img
-          src="/images/finished-projects/flsh.png"
+          src="/images/finished-projects/tgr.png"
           alt=""
           class="rounded-lg image-scale bg-white"
         />
       </div>
-
       <div class="image-wrapper">
         <img
           src="/images/finished-projects/stcof.png"
@@ -352,17 +366,10 @@
           class="rounded-lg image-scale bg-white"
         />
       </div>
-      <div class="image-wrapper">
-        <img
-          src="/images/bg.png"
-          alt=""
-          class="rounded-lg image-scale bg-white"
-        />
-      </div>
 
       <div class="image-wrapper">
         <img
-          src="/images/finished-projects/nse.jpg"
+          src="/images/finished-projects/attendease.png"
           alt=""
           class="rounded-lg image-scale bg-white"
         />
